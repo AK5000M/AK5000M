@@ -85,19 +85,22 @@ _You can add a row of visual badges here using Shields.io or similar services to
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Test Results
 
-| Year | Test                | Score | Percentile |  Status   |
-| :--: | :------------------ | :---: | :--------: | :-------: |
-| 2023 | Node JS             |  67%  |    73%     | ✅ Passed |
-| 2023 | React JS            |  74%  |    82%     | ✅ Passed |
-| 2023 | Tailwind CSS        |  70%  |    76%     | ✅ Passed |
-| 2023 | Jquery Advanced     | 100%  |    99%     | ✅ Passed |
-| 2022 | Bootstrap Basic     |  90%  |    93%     | ✅ Passed |
-| 2021 | HTML 5 Intermediate | 100%  |    100%    | ✅ Passed |
-| 2021 | HTML Intermediate   | 100%  |    100%    | ✅ Passed |
-| 2021 | Javascript Advanced |  80%  |    94%     | ✅ Passed |
-| 2020 | CSS Básico          |  86%  |    91%     | ✅ Passed |
+|   Year   | Test / Skill        | Score | Percentile |  Status   |
+| :------: | :------------------ | :---: | :--------: | :-------: |
+| **2023** | **React JS**        |  89%  |    93%     | ✅ Passed |
+|   2023   | Node JS             |  72%  |    73%     | ✅ Passed |
+|   2023   | Node JS             |  72%  |    73%     | ✅ Passed |
+|   2023   | Tailwind CSS        |  70%  |    76%     | ✅ Passed |
+|   2023   | Jquery Advanced     | 100%  |    99%     | ✅ Passed |
+|   2023   | Test de Inglés      |  70%  |    76%     | ✅ Passed |
+| **2022** | Bootstrap Básico    |  90%  |    93%     | ✅ Passed |
+|   2022   | CSS Básico          |  76%  |    57%     | ✅ Passed |
+| **2021** | HTML 5 Intermediate | 100%  |    100%    | ✅ Passed |
+|   2021   | HTML Intermediate   | 100%  |    100%    | ✅ Passed |
+|   2021   | Javascript Advanced |  80%  |    94%     | ✅ Passed |
+|   2020   | CSS Básico          |  86%  |    91%     | ✅ Passed |
 
 ---
 
