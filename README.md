@@ -95,7 +95,7 @@ _You can add a row of visual badges here using Shields.io or similar services to
 | 2023 | Jquery Advanced     | 100%  |    99%     | ✅ Passed |
 | 2022 | Bootstrap Basic     |  90%  |    93%     | ✅ Passed |
 | 2022 | CSS Basic           |  76%  |    57%     | ✅ Passed |
-| 2021 | HTML 5 Intermediate | 100%  |    100%    | ✅ Passed |
+| 2021 | HTML5 Intermediate  | 100%  |    100%    | ✅ Passed |
 | 2021 | HTML Intermediate   | 100%  |    100%    | ✅ Passed |
 | 2021 | Javascript Advanced |  80%  |    94%     | ✅ Passed |
 | 2020 | CSS Basic           |  86%  |    91%     | ✅ Passed |
