@@ -85,8 +85,6 @@ _You can add a row of visual badges here using Shields.io or similar services to
 
 ---
 
----
-
 ## 🏅 Certifications
 
 | Year | Test                | Score | Percentile |  Status   |
