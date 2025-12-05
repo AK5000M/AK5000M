@@ -85,6 +85,14 @@ _You can add a row of visual badges here using Shields.io or similar services to
 
 ---
 
+## 🥋 Codewars Rank
+
+<a href="https://www.codewars.com/users/AK5000M">
+  <img src="https://www.codewars.com/users/AK5000M/badges/small" alt="Codewars Badge">
+</a>
+
+---
+
 ## 🏆 My GitHub Trophies
 
 ![AK5000M's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AK5000M&theme=onestar&no-bg=true)
