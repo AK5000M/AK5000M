@@ -87,8 +87,8 @@ _You can add a row of visual badges here using Shields.io or similar services to
 
 ## 🥋 Codewars Rank
 
-<a href="https://www.codewars.com/users/AK5000M">
-  <img src="https://www.codewars.com/users/AK5000M/badges/small" alt="Codewars Badge">
+<a href="https://www.codewars.com/users/AK5000M" target="_blank">
+  <img src="https://www.codewars.com/users/AK5000M/badges/small" alt="Codewars Rank Badge">
 </a>
 
 ---
