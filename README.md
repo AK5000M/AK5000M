@@ -1,4 +1,4 @@
-# 👋 Hello! I'm AK5000M
+# 👋 Hello!
 
 ### A Full-Stack Developer ready to build your next great project.
 
@@ -23,7 +23,7 @@ I am open to working in any time zone and can strive to deliver high quality sof
 | **DevOps & Cloud** | Git, **GitHub**, Gitlab, **AWS**, **Docker**                                                           |
 | **CMS**            | Shopify, WordPress                                                                                     |
 
-### Featured Tech Stack Badges
+### Featured Tech Stack
 
 _You can add a row of visual badges here using Shields.io or similar services to make this section pop:_
 
@@ -84,3 +84,13 @@ _You can add a row of visual badges here using Shields.io or similar services to
 -   **Excellent Communication:** Strong communication and collaboration skills, guaranteeing smooth project coordination and client satisfaction.
 
 ---
+
+## 📈 GitHub Stats
+
+| Profile Statistics                                                                                                                                    | Top Languages                                                                                                                                 |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![AK5000M's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AK5000M&show_icons=true&theme=dark&hide_border=true&count_private=true) | ![AK5000M's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AK5000M&layout=compact&theme=dark&hide_border=true) |
+
+<br>
+
+**Note:** The official crowns you see (like Pro and Galaxy Brain) are **achievements** granted by GitHub and cannot be manually added to your README. The cards above serve as a dynamic, data-driven replacement that highlights your contributions.
