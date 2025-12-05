@@ -85,6 +85,24 @@ _You can add a row of visual badges here using Shields.io or similar services to
 
 ---
 
+---
+
+## 🏅 Certifications
+
+| Year | Test                | Score | Percentile |  Status   |
+| :--: | :------------------ | :---: | :--------: | :-------: |
+| 2023 | Node JS             |  67%  |    73%     | ✅ Passed |
+| 2023 | React JS            |  74%  |    82%     | ✅ Passed |
+| 2023 | Tailwind CSS        |  70%  |    76%     | ✅ Passed |
+| 2023 | Jquery Advanced     | 100%  |    99%     | ✅ Passed |
+| 2022 | Bootstrap Basic     |  90%  |    93%     | ✅ Passed |
+| 2021 | HTML 5 Intermediate | 100%  |    100%    | ✅ Passed |
+| 2021 | HTML Intermediate   | 100%  |    100%    | ✅ Passed |
+| 2021 | Javascript Advanced |  80%  |    94%     | ✅ Passed |
+| 2020 | CSS Básico          |  86%  |    91%     | ✅ Passed |
+
+---
+
 ## 🏆 My GitHub Trophies
 
 ![AK5000M's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AK5000M&theme=onestar&no-bg=true)
